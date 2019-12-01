@@ -7,6 +7,12 @@
  * @author Tyler Bezera
  * 2/25/19
  * Waivers.js
+ * @version 2.0
+ * 11/30/2019
+ * @author Vera
+ * @author Kaephas
+ * @author Cody
+ * @author David
  */
 
 'use strict';

@@ -1,3 +1,10 @@
+/**
+ * Page to play around with datahive interactions
+ * @author Kaephas Kain
+ * @date 11/30/2019
+ * kaephas.js
+ */
+
 'use strict';
 
 import View from './View.js';

@@ -3,6 +3,12 @@
  * @author Tyler Bezera
  * 5/17/19
  * CoachLogInView.js
+ *
+ * @version 2.0
+ * @author Cody
+ * @author David
+ * @author Kaephas
+ * @author Vera
  */
 
 

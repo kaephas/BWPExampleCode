@@ -4,6 +4,13 @@
  * @author Tyler Bezera
  * 5/2/19
  * SummaryView.js
+ *
+ * @version 2.0
+ * @author Kaephas
+ * @author Cody
+ * @author Vera
+ * @author David
+ * 11/30/2019
  */
 
 

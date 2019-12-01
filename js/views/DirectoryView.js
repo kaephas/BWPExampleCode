@@ -4,6 +4,12 @@
  * @author Cynthia Pham
  * 5/16/19
  * DirectoryView.js
+ *
+ * @version 2.0
+ * @author David
+ * @author Vera
+ * @author Cody
+ * @author Vera
  */
 
 "use strict";
